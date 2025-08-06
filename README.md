@@ -16,7 +16,7 @@ Langkah pertama adalah mengimpor semua _library_ Python yang diperlukan untuk an
 - `google.colab` untuk mengintegrasikan dengan Google Drive.
 
 ### Langkah 2: Load Dataset
-Dataset yang digunakan adalah data jumlah penduduk miskin per provinsi di Indonesia dari tahun 2020 hingga 2024. Data ini dimuat dari file Excel yang disimpan di Google Drive.
+Dataset yang digunakan adalah data jumlah penduduk miskin per provinsi di Indonesia dari tahun 2020 hingga 2024.
 
 ### Langkah 3: Data Understanding
 - **Melihat keseluruhan dataset**: Menampilkan 39 baris data yang berisi nama provinsi dan jumlah penduduk miskin dari tahun 2020 hingga 2024. Terdapat beberapa baris dengan data yang tidak valid (bernilai '-').
